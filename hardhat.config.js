@@ -8,9 +8,5 @@ module.exports = {
   },
   networks: {
     hardhat: {},
-    ropsten: {
-      url: 'https://ropsten.infura.io/v3/your-project-id',
-      accounts: ['my-private-key'],
-    },
   },
 }
