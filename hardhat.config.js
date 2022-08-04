@@ -7,8 +7,10 @@ module.exports = {
     artifacts: './src/artifacts',
   },
   networks: {
-    hardhat: {
-      chainId: 1337,
+    hardhat: {},
+    ropsten: {
+      url: 'https://ropsten.infura.io/v3/your-project-id',
+      accounts: ['my-private-key'],
     },
   },
 }
