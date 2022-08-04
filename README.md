@@ -1,3 +1,5 @@
+This code was done based on [this tutorial](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13).
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
